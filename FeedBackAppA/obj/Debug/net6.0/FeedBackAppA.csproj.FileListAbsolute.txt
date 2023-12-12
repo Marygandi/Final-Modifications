@@ -1,0 +1,232 @@
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.AssemblyReference.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfoInputs.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfo.cs
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CoreCompileInputs.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cs
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.Development.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.staticwebassets.runtime.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.exe
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.deps.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.runtimeconfig.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.pdb
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Humanizer.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.FeedBackAppA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.build.FeedBackAppA.props
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FeedBackAppA.props
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FeedBackAppA.props
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\bundle\FeedBackAppA.styles.css
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\projectbundle\FeedBackAppA.bundle.scp.css
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CopyComplete
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\refint\FeedBackAppA.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.pdb
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.genruntimeconfig.cache
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\ref\FeedBackAppA.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cs
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.config
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.dll
+C:\Hexaware\Assignmentofhotel\FeedBackApp\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.Development.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.staticwebassets.runtime.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.exe
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.config
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.deps.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.runtimeconfig.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.pdb
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Humanizer.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.AssemblyReference.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.GeneratedMSBuildEditorConfig.editorconfig
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfoInputs.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfo.cs
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CoreCompileInputs.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cs
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cs
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.FeedBackAppA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.build.FeedBackAppA.props
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FeedBackAppA.props
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FeedBackAppA.props
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.pack.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.build.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.development.json
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\bundle\FeedBackAppA.styles.css
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\projectbundle\FeedBackAppA.bundle.scp.css
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CopyComplete
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\refint\FeedBackAppA.dll
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.pdb
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.genruntimeconfig.cache
+D:\hexaware\Final project\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\ref\FeedBackAppA.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\appsettings.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.staticwebassets.runtime.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.exe
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.config
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.deps.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.runtimeconfig.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\FeedBackAppA.pdb
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Humanizer.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\log4net.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.AssemblyReference.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfoInputs.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.AssemblyInfo.cs
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CoreCompileInputs.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.RazorAssemblyInfo.cs
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.FeedBackAppA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.build.FeedBackAppA.props
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FeedBackAppA.props
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FeedBackAppA.props
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\bundle\FeedBackAppA.styles.css
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\scopedcss\projectbundle\FeedBackAppA.bundle.scp.css
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.csproj.CopyComplete
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\refint\FeedBackAppA.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.pdb
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\FeedBackAppA.genruntimeconfig.cache
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\obj\Debug\net6.0\ref\FeedBackAppA.dll
+D:\ProjectMouni\FeedBackAppSolutionA\FeedBackAppSolutionA\FeedBackAppA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
