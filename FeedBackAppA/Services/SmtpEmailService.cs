@@ -9,7 +9,7 @@ namespace FeedBackAppA.Services
         private readonly string _smtpServer = "smtp.gmail.com";
         private readonly int _smtpPort = 587;
         private readonly string _smtpUsername = "sivakumari143256@gmail.com";
-        private readonly string _smtpPassword = "jbnl vemj inml ehvd"; // Use your App Password here
+        private readonly string _smtpPassword = "jbnl vemj inml ehvd"; 
 
         public void SendEmail(string toEmail, string subject, string body)
         {

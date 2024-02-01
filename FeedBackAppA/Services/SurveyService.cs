@@ -14,7 +14,7 @@ namespace FeedBackAppA.Services
 
         public void CreateSurvey(Survey survey)
         {
-            //survey.ResponseCount++;
+           
             _surveyRepository.Add(survey);
         }
 
@@ -24,10 +24,8 @@ namespace FeedBackAppA.Services
         }
         public Survey GetSurveyById(int id)
         {
-            // Eager load SurveySubmissions
             return _surveyRepository.GetByIdWithSubmissions(id);
         }
-        // Other service methods...
         public IEnumerable<Survey> GetAllSurveys()
         {
             return _surveyRepository.GetAll();

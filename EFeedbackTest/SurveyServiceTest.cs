@@ -28,20 +28,20 @@ namespace EFeedbackTest
         [Test]
         public void CreateSurvey_ValidSurvey_AddedToRepository()
         {
-            // Arrange
+           
             var surveyService = new SurveyService(surveyRepository);
             var survey = new Survey
             {
                 Title = "Sample Survey",
 
                
-                // Add other properties initialization
+                
             };
 
-            // Act
+          
             surveyService.CreateSurvey(survey);
 
-            // Assert
+           
             var retrievedSurvey = surveyService.GetSurveyById(survey.Id);
             Assert.IsNotNull(retrievedSurvey);
             Assert.AreEqual(survey.Id, retrievedSurvey.Id);
@@ -50,38 +50,37 @@ namespace EFeedbackTest
         [Test]
         public void GetSurveyById_ExistingId_ReturnsSurvey()
         {
-            // Arrange
+           
             var surveyService = new SurveyService(surveyRepository);
             var expectedSurvey = new Survey
             {
                 Id = 1,
                 Title = "Sample Survey",
                
-                // Add other properties initialization
             };
             surveyService.CreateSurvey(expectedSurvey);
 
-            // Act
+            
             var result = surveyService.GetSurveyById(1);
 
-            // Assert
+           
             Assert.AreEqual(expectedSurvey, result);
         }
 
         [Test]
         public void GetSurveyById_NonExistingId_ThrowsSurveyNotFoundException()
         {
-            // Arrange
+           
             var surveyService = new SurveyService(surveyRepository);
 
-            // Act and Assert
+          
             Assert.Throws<SurveyNotFoundException>(() => surveyService.GetSurveyById(999));
         }
 
         [Test]
         public void GetAllSurveys_RepositoryHasSurveys_ReturnsSurveys()
         {
-            // Arrange
+           
             var surveyService = new SurveyService(surveyRepository);
             var surveysToAdd = new List<Survey>
             {
@@ -89,13 +88,13 @@ namespace EFeedbackTest
                 {
                     Title = "Survey 1",
                    
-                    // Add other properties initialization
+                   
                 },
                 new Survey
                 {
                     Title = "Survey 2",
                    
-                    // Add other properties initialization
+                    
                 },
                 new Survey
                 {
@@ -108,10 +107,10 @@ namespace EFeedbackTest
                 surveyService.CreateSurvey(survey);
             }
 
-            // Act
+           
             var result = surveyService.GetAllSurveys();
 
-            // Assert
+            
             CollectionAssert.AreEquivalent(surveysToAdd, result);
         }
     }

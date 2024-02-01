@@ -15,7 +15,6 @@ namespace FeedBackAppA.Controllers
     [ApiController]
     public class SurveySubmissionController : ControllerBase
     {
-        
 
         private readonly FeedBackContext _context;
         private readonly ILogger<SurveySubmissionController> _logger;
@@ -33,8 +32,6 @@ namespace FeedBackAppA.Controllers
                 _context.SurveySubmissions.Add(submission);
                 _context.SaveChanges();
                 _logger.LogInformation("SurveySubmission listed");
-
-                // Update the ResponseCount in the associated Survey
                 var survey = _context.Surveys.Find(submission.SurveyId);
                 if (survey != null)
                 {

@@ -30,7 +30,7 @@ namespace FeedBackAppA.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int?>("QuestionId")
+                    b.Property<int>("QuestionId")
                         .HasColumnType("int");
 
                     b.Property<string>("Text")
@@ -51,7 +51,7 @@ namespace FeedBackAppA.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int?>("SurveyId")
+                    b.Property<int>("SurveyId")
                         .HasColumnType("int");
 
                     b.Property<string>("Text")
@@ -190,16 +190,24 @@ namespace FeedBackAppA.Migrations
 
             modelBuilder.Entity("FeedBackAppA.Models.Answer", b =>
                 {
-                    b.HasOne("FeedBackAppA.Models.Question", null)
+                    b.HasOne("FeedBackAppA.Models.Question", "Question")
                         .WithMany("Answers")
-                        .HasForeignKey("QuestionId");
+                        .HasForeignKey("QuestionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Question");
                 });
 
             modelBuilder.Entity("FeedBackAppA.Models.Question", b =>
                 {
-                    b.HasOne("FeedBackAppA.Models.Survey", null)
+                    b.HasOne("FeedBackAppA.Models.Survey", "Survey")
                         .WithMany("Questions")
-                        .HasForeignKey("SurveyId");
+                        .HasForeignKey("SurveyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Survey");
                 });
 
             modelBuilder.Entity("FeedBackAppA.Models.QuestionResponse", b =>

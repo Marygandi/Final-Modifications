@@ -93,6 +93,7 @@ namespace FeedBackAppA
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<ITokenService, TokenService>();
             builder.Services.AddScoped<ISurveyRepository, SurveyRepository>();
+            builder.Services.AddScoped<ISurveyEditRepository, SurveyEditRepository>();
             builder.Services.AddScoped<ISurveyService, SurveyService>();
             builder.Services.AddScoped<IEmailService, SmtpEmailService>();
             builder.Services.AddControllers()

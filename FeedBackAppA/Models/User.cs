@@ -12,7 +12,7 @@ namespace FeedBackAppA.Models
         public byte[]? Password { get; set; }
         public string? Role { get; set; }
         public byte[]? Key { get; set; }
-        public ICollection<SurveySubmission> SurveySubmissions { get; set; }
+        public ICollection<SurveySubmission>  SurveySubmissions { get; set; }
 
     }
 }
