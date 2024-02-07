@@ -72,7 +72,7 @@ namespace FeedBackAppA.Repositories
             }
         }
 
-        /*public async Task DeleteQuestionFromSurveyAsync(int surveyId, int questionId)
+       /* public async Task DeleteQuestionFromSurveyAsync(int surveyId, int questionId)
         {
             var survey = await _dbContext.Surveys.FindAsync(surveyId);
             var question = await _dbContext.Questions.FindAsync(questionId);
@@ -100,6 +100,32 @@ namespace FeedBackAppA.Repositories
             }
         }
 
+        public async Task DeleteSurveyAsync(int surveyId)
+        {
+            var survey = await _dbContext.Surveys.FindAsync(surveyId);
+
+            if (survey != null)
+            {
+                // Delete all questions associated with the survey
+                var questionsToDelete = _dbContext.Questions.Where(q => q.SurveyId == surveyId);
+                _dbContext.Questions.RemoveRange(questionsToDelete);
+
+                // Delete all answers associated with the questions of the survey
+                var answersToDelete = _dbContext.Answers.Where(a => a.Question.SurveyId == surveyId);
+                _dbContext.Answers.RemoveRange(answersToDelete);
+
+                // Delete all question responses associated with the survey submissions of the survey
+                var surveySubmissionIds = _dbContext.SurveySubmissions.Where(ss => ss.SurveyId == surveyId).Select(ss => ss.SurveyId);
+                var questionResponsesToDelete = _dbContext.QuestionResponses.Where(qr => surveySubmissionIds.Contains(qr.SurveySubmissionId));
+                _dbContext.QuestionResponses.RemoveRange(questionResponsesToDelete);
+
+                // Delete the survey itself
+                _dbContext.Surveys.Remove(survey);
+
+                await _dbContext.SaveChangesAsync();
+            }
+        }
+
         public async Task<Question> GetQuestionByIdAsync(int questionId)
         {
             // Assuming Questions are stored in a DbSet named Questions in your DbContext
@@ -108,6 +134,6 @@ namespace FeedBackAppA.Repositories
             return question;
         }
 
-        // Similar methods for Answers
+
     }
 }

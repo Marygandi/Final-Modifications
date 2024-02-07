@@ -30,7 +30,7 @@ namespace FeedBackAppA.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("QuestionId")
+                    b.Property<int?>("QuestionId")
                         .HasColumnType("int");
 
                     b.Property<string>("Text")
@@ -82,7 +82,7 @@ namespace FeedBackAppA.Migrations
                     b.Property<int>("QuestionId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("SurveySubmissionId")
+                    b.Property<int>("SurveySubmissionId")
                         .HasColumnType("int");
 
                     b.HasKey("QuestionResponseId");
@@ -192,9 +192,7 @@ namespace FeedBackAppA.Migrations
                 {
                     b.HasOne("FeedBackAppA.Models.Question", "Question")
                         .WithMany("Answers")
-                        .HasForeignKey("QuestionId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("QuestionId");
 
                     b.Navigation("Question");
                 });
@@ -212,9 +210,13 @@ namespace FeedBackAppA.Migrations
 
             modelBuilder.Entity("FeedBackAppA.Models.QuestionResponse", b =>
                 {
-                    b.HasOne("FeedBackAppA.Models.SurveySubmission", null)
+                    b.HasOne("FeedBackAppA.Models.SurveySubmission", "SurveySubmission")
                         .WithMany("QuestionResponses")
-                        .HasForeignKey("SurveySubmissionId");
+                        .HasForeignKey("SurveySubmissionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("SurveySubmission");
                 });
 
             modelBuilder.Entity("FeedBackAppA.Models.SurveySubmission", b =>

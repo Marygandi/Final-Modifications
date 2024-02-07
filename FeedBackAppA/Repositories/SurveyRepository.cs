@@ -37,7 +37,7 @@ namespace FeedBackAppA.Repositories
 
             return survey;
         }
-       
+
         public Survey GetById(int id)
         {
             var survey = _dbContext.Surveys
@@ -80,9 +80,9 @@ namespace FeedBackAppA.Repositories
 
             return reports;
         }
-        public Survey GetSurveyWithSubmissionsAndUsers(int surveyId,int surveySubmissionId)
+        public Survey GetSurveyWithSubmissionsAndUsers(int surveyId, int surveySubmissionId)
         {
-            var submission= _dbContext.Surveys
+            var submission = _dbContext.Surveys
                 .Where(s => s.Id == surveyId)
                 .Include(s => s.SurveySubmissions)
                 .ThenInclude(ss => ss.User)
@@ -97,10 +97,10 @@ namespace FeedBackAppA.Repositories
     }
 
 
-   }
-
-    
+}
 
 
-    
+
+
+
 

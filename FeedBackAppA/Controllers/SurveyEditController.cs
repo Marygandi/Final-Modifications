@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using FeedBackAppA.Interfaces;
 using FeedBackAppA.Models;
@@ -64,6 +65,21 @@ namespace FeedBackAppA.Controllers
             }
         }
 
+        [HttpDelete("{surveyId}")]
+        public async Task<ActionResult<Survey>> DeleteSurvey(int surveyId)
+        {
+            try
+            {
+                await _repository.DeleteSurveyAsync(surveyId);
+                // Return a custom response indicating the deleted survey
+                return Ok(new { Message = "Survey deleted successfully", DeletedSurveyId = surveyId });
+            }
+            catch (Exception ex)
+            {
+                // Handle exceptions as needed
+                return StatusCode(500, $"Internal Server Error: {ex.Message}");
+            }
+        }
 
         // Similar methods for Answers
     }

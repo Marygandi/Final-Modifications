@@ -7,7 +7,7 @@ namespace FeedBackAppA.Models.DTOs
 
         [Required(ErrorMessage = "Username cannot be empty")]
         public string? Username { get; set; }
-        [Required(ErrorMessage = "enter valid email")]
+        //[Required(ErrorMessage = "enter valid email")]
         public string? email { get; set; }
 
         public string? Role { get; set; }
